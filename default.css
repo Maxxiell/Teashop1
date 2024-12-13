@@ -57,7 +57,7 @@ a:hover{
 /* Mission*/
 
 #mission {
-    background-image: url('/images/img-mission-background.jpg');
+    background-image: url('img-mission-background.jpg');
     background-position: center;
     height: 700px;
     width: 90%;
@@ -103,7 +103,7 @@ a:hover{
 
 }
 #locations{
-    background-image: url('/images/img-locations-background.jpg');
+    background-image: url('img-locations-background.jpg');
     max-width: 1200px;
     background-position: center;
     margin: auto;
